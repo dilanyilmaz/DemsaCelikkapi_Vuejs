@@ -1,4 +1,4 @@
-# Demsa Çelikkapı Firması için yapmış olduğum Websayfası
+# Demsa Çelikkapı Websayfası
 
 ## Project setup
 ```
